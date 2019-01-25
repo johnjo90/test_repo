@@ -15,7 +15,5 @@ public class Helloworld {
 		System.out.println("added method 2");
 	}
 
-	public static void method3() {
-		System.err.println("added metod 3");
-	}
+
 }
